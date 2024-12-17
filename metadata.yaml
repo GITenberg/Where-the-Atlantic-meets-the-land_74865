@@ -1,0 +1,26 @@
+_repo: Where-the-Atlantic-meets-the-land_74865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lipsett, Caldwell
+    gutenberg_agent_id: '57695'
+    url: http://www.gutenberg.org/2009/agents/57695
+description: ''
+gutenberg_issued: '2024-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74865'
+language: en
+pgterms:marc904: https://archive.org/details/whereatlanticmee00lipsuoft
+pgterms:marc905: 20241202142538lipsett
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aBoston :$bRoberts Brothers, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Where the Atlantic meets the land
+url: http://www.gutenberg.org/ebooks/74865
